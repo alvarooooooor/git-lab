@@ -4,7 +4,7 @@ public class Food {
         System.out.println("Hamburger - $7.99");
         System.out.println("Caesar Salad - $6.50");
         System.out.println("Chicken Sandwich - $8.50");
-        System.out.println("Hot Dog - $6.70");
+        System.out.println("Burger - $8.99");
 
     }
 }
